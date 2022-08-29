@@ -12,4 +12,6 @@ export class AppComponent {
   formatRating = formatRating;
 
   games = getAllGames();
+
+  
 }
